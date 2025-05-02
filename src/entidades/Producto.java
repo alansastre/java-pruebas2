@@ -7,5 +7,5 @@ package entidades;
 public class Producto {
     private Long id;
     private Double precio;
-
+    private String titulo;
 }
